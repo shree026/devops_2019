@@ -1,4 +1,0 @@
-FROM nginx
-#COPY devops_2019/*.html  devops_2019/*.jpg /usr/share/nginx/html/
-
-COPY devops_2019 /usr/share/nginx/html/
